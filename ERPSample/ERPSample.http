@@ -1,0 +1,6 @@
+@ERPSample_HostAddress = http://localhost:5098
+
+GET {{ERPSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

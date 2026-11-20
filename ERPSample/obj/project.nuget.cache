@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbS/srscAYE=",
+  "success": true,
+  "projectFilePath": "/Users/mictco/works/MyDotnetProjects/ERPSample/ERPSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/mictco/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/namotion.reflection/3.5.1/namotion.reflection.3.5.1.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/njsonschema/11.6.2/njsonschema.11.6.2.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/njsonschema.annotations/11.6.2/njsonschema.annotations.11.6.2.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/njsonschema.newtonsoftjson/11.6.2/njsonschema.newtonsoftjson.11.6.2.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/njsonschema.yaml/11.6.2/njsonschema.yaml.11.6.2.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/nswag.annotations/14.8.0/nswag.annotations.14.8.0.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/nswag.aspnetcore/14.8.0/nswag.aspnetcore.14.8.0.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/nswag.core/14.8.0/nswag.core.14.8.0.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/nswag.core.yaml/14.8.0/nswag.core.yaml.14.8.0.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/nswag.generation/14.8.0/nswag.generation.14.8.0.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/nswag.generation.aspnetcore/14.8.0/nswag.generation.aspnetcore.14.8.0.nupkg.sha512",
+    "/Users/mictco/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
